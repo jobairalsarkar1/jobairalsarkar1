@@ -10,14 +10,6 @@
 <a href="https://www.facebook.com/jobair.al.sarkar" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-
-<a href="https://x.com/jobairalsarkar" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" height="30" width="40" />
-</a>
-
-<a href="https://www.jobairalsarkar.site/" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Portfolio" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
