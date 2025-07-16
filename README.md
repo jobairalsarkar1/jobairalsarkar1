@@ -3,17 +3,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jobair-al-sarkar-35432b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobair-al-sarkar-35432b282" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jobair.al.sarkar" target="blank">
+<a href="https://linkedin.com/in/jobair-al-sarkar-35432b282" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/jobair.al.sarkar" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
-<a href="https://x.com/jobairalsarkar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+<a href="https://x.com/jobairalsarkar" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" height="30" width="40" />
 </a>
 
-<a href="https://www.jobairalsarkar.site/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+<a href="https://www.jobairalsarkar.site/" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Portfolio" height="30" width="40" />
 </a>
 </p>
 
