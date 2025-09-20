@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jobairalsarkar" target="blank"><img src="https://img.shields.io/twitter/follow/jobairalsarkar?logo=twitter&style=for-the-badge" alt="jobairalsarkar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.jobairalsarkar.site/projects](https://www.jobairalsarkar.site/projects)
+- 👨‍💻 Most of my projects are available at [https://www.jobairalsarkar.site/projects](https://www.jobairalsarkar.site/projects)
 
 - 💬 Ask me about **Backend & Frontend, how to develop a product, how to fix bug**
 
